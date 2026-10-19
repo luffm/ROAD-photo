@@ -1,5 +1,10 @@
 <p align="right"><a href="https://luffm.github.io/Jigsaw-Puzzles/">Jigsaw Puzzles</a></p>
 
+## Gansenji / KYŌTO
+2026-06-21<br>
+![Gansenji](images/2026-06-21-Gansenji_Kyoto.jpg)
+<br>1000 pieces
+
 ## Kinkakuji Fuyugesiki / KYŌTO
 2025-01-19<br>
 ![Kinkakuji Fuyugeshiki](images/2025-01-19-Kinkakuji_Fuyugeshiki.jpg)
